@@ -1,2 +1,0 @@
-# cdn
- zalalaa.com
